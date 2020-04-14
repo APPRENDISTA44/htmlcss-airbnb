@@ -16,17 +16,17 @@
   width: 30%;
   height: 30%;
 }
-.Roma{
+.città:first-child{
   background-image:url(../img/roma.jpg);
   background-size: cover;
   background-position: center;
 }
-.Napoli{
+.città:nth-child(2){
   background-image:url(../img/napoli.jpg);
   background-size: cover;
   background-position: center;
 }
-.Milano{
+.città:last-child{
   background-image:url(../img/milano.jpg);
   background-size: cover;
   background-position: center;
