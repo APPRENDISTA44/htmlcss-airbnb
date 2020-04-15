@@ -9,24 +9,24 @@
   width: 100%;
 }
 /*blocchi città*/
-.città{
+.citta{
   margin-bottom: 5px;
   position: relative;
   margin-left: 5px;
   width: 30%;
   height: 30%;
 }
-.città:first-child{
+.citta:first-child{
   background-image:url(../img/roma.jpg);
   background-size: cover;
   background-position: center;
 }
-.città:nth-child(2){
+.citta:nth-child(2){
   background-image:url(../img/napoli.jpg);
   background-size: cover;
   background-position: center;
 }
-.città:last-child{
+.citta:last-child{
   background-image:url(../img/milano.jpg);
   background-size: cover;
   background-position: center;
